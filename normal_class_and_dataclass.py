@@ -1,6 +1,6 @@
 #  normal class
 print("\nNormal class")
-
+ 
 class UserInfo:
     def __init__(self, user_name: str, user_password: int, user_email: str) -> None:
         self.user_name = user_name

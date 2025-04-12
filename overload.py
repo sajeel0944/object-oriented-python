@@ -4,7 +4,7 @@ class Calculator:
     @overload
     def calculate(self, a: int, b: int) -> int:
         ...
-
+ 
     @overload
     def calculate(self, a: float, b: float) -> float:
         ...

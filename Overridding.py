@@ -2,7 +2,7 @@ class Animal():
     def eating(self, meal: str) -> str:
         return f"Animal is eating {meal}"
     
-
+ 
 class Bird(Animal):
     def eating(self, meal: str) -> str:
         return f"Bird is eating {meal}"

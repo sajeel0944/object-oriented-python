@@ -4,4 +4,4 @@ class Human:
     
 
 sa = Human()
-print(sa())
+print(sa()) 

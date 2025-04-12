@@ -1,6 +1,6 @@
 ##   normal class
 print("\nNormal class")
-
+ 
 class Employee:
     def __init__(self, emp_name: str, emp_qualification: str, emp_department: str) -> None:
         self.emp_name: str = emp_name

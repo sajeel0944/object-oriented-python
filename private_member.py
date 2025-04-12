@@ -18,7 +18,7 @@ class Valify_user:
             return "valid user"
         else:
             return "invaild user"
-        
+         
 
     def sign_in(self, email: str, password: str) -> None:
         self.__user_email.append(email)

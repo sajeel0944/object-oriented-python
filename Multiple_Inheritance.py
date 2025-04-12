@@ -28,7 +28,7 @@ child1: Kid = Kid("Naseem Bano", "Muhammad Aslam", "Muhammad Qasim")
 print(f"object height {child1.dad_height}")
 print(f"object eye color {child1.mom_eye_color}")
 print(child1.speak("Pakistan zinda bad"))
-
+ 
 
 
 
